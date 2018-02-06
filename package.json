@@ -1,0 +1,19 @@
+{
+  "name": "pizza-42",
+  "version": "0.0.1",
+  "description": "Basic example of Auth0 Pizza App",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve -p 3000"
+  },
+  "author": "Russ C.",
+  "license": "MIT",
+  "dependencies": {
+    "auth0-js": "^9.2.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "serve": "^6.0.0"
+  }
+}
