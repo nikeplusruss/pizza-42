@@ -4,7 +4,7 @@
   "description": "Basic example of Auth0 Pizza App",
   "main": "app.js",
   "scripts": {
-    "start": "serve -p 3000"
+    "start": "serve"
   },
   "author": "Russ C.",
   "license": "MIT",

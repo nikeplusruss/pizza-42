@@ -83,7 +83,7 @@ $('document').ready(function() {
     if (isAuthenticated()) {
       loginBtn.css('display', 'none');
       logoutBtn.css('display', 'inline-block');
-      loginStatus.text('You are logged in!');
+      loginStatus.text('Congratulations, you are logged in, and will be able to place an order once this company actually exists! =)');
     } else {
       loginBtn.css('display', 'inline-block');
       logoutBtn.css('display', 'none');
