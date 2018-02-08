@@ -1,3 +1,3 @@
 var AUTH0_CLIENT_ID='P4Td6xntQjYiN4mO6iKt50kgpWb19EDf';
 var AUTH0_DOMAIN='pride.auth0.com';
-var AUTH0_CALLBACK_URL='http://nikeplusruss.herokuapp.com';
+var AUTH0_CALLBACK_URL='https://nikeplusruss.herokuapp.com';
