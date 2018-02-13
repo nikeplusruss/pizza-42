@@ -1,12 +1,12 @@
 {
   "name": "custom-login",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "serve -p 3000"
   },
-  "author": "Auth0",
+  "author": "Russ C.",
   "license": "MIT",
   "dependencies": {
     "auth0-js": "^9.0.0",
