@@ -4,8 +4,7 @@
   "description": "Sample demonstrating how to verify a JWT signed with RS256",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "prod": "nodemon server.js"
+    "start": "pm2 start server.js"
   },
   "author": "Auth0",
   "license": "MIT",
