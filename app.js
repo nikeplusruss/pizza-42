@@ -105,7 +105,7 @@ $('document').ready(function() {
     if (isAuthenticated()) {
       loginBtn.css('display', 'none');
       logoutBtn.css('display', 'inline-block');
-      loginStatus.text('Congratulations, you are logged in!  Use the 'Order Pizza' button to kick off the API! =)');
+      loginStatus.text('Congratulations, you are logged in!  Use the _Order Pizza_ button to kick off the API! =)');
       orderBtn.css('display', 'block');
       // Display the Profile
       getProfile();
