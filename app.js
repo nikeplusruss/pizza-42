@@ -145,7 +145,7 @@ $('document').ready(function() {
 
   // Let's Communicate with the API
 
-  var apiUrl = 'http://localhost:3010/api';
+  var apiUrl = 'http://165.227.55.10:3010/api';
 
   // ...
   function callAPI(endpoint) {
