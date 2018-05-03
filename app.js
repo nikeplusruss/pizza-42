@@ -106,11 +106,13 @@ $('document').ready(function() {
       loginBtn.css('display', 'none');
       logoutBtn.css('display', 'inline-block');
       loginStatus.text('Congratulations, you are logged in, and will be able to place an order once this company actually exists! =)');
+      orderBtn.css('display', 'block');
       // Display the Profile
       getProfile();
     } else {
       loginBtn.css('display', 'inline-block');
       logoutBtn.css('display', 'none');
+      orderBtn.css('display', 'none');
       loginStatus.text('You are not logged in! Please log in to Order Pizza.');
       profileView.css('display', 'none');
       pingView.css('display', 'none');
